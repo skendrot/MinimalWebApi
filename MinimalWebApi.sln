@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApiVsix", "MinimalWebApiVsix\MinimalWebApiVsix.csproj", "{EA6E1D3D-3913-4A3E-81B9-A11DCD9F36E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApiWebProject", "MinimalWebApiWebProject\MinimalWebApiWebProject.csproj", "{D80D4BE4-AD1D-4AE7-8CF8-1A92AAD6975C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6E1D3D-3913-4A3E-81B9-A11DCD9F36E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6E1D3D-3913-4A3E-81B9-A11DCD9F36E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6E1D3D-3913-4A3E-81B9-A11DCD9F36E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6E1D3D-3913-4A3E-81B9-A11DCD9F36E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80D4BE4-AD1D-4AE7-8CF8-1A92AAD6975C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80D4BE4-AD1D-4AE7-8CF8-1A92AAD6975C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80D4BE4-AD1D-4AE7-8CF8-1A92AAD6975C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80D4BE4-AD1D-4AE7-8CF8-1A92AAD6975C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

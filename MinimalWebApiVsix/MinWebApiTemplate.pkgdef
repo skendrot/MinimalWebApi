@@ -1,0 +1,11 @@
+[$RootKey$\MVC4\ProjectTemplates\MinimalWebAPIProjectTemplate]
+"Title"="Minimal Web API"
+"Description"="An Empty ASP.NET Web API Project Template."
+
+[$RootKey$\MVC4\ProjectTemplates\MinimalWebAPIProjectTemplate\C#]
+
+[$RootKey$\MVC4\ProjectTemplates\MinimalWebAPIProjectTemplate\C#\Razor]
+"Path"="CSharp\\Web"
+"SupportsHTML5"=dword:00000000
+"SupportsUnitTests"=dword:00000000
+"Template"="MinimalWebApiApplicationTemplate.zip"

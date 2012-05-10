@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="MinimalWebAPI.CSharp.190e93aa-98e5-4c26-a4d1-be3e9abb6eae">
+    <Name>MinimalWebAPI</Name>
+    <Author>Shawn Kendrot</Author>
+    <Version>1.0</Version>
+    <Description xml:space="preserve">An Empty ASP.NET Web API Project Template</Description>
+    <Locale>1033</Locale>
+    <MoreInfoUrl>https://github.com/skendrot/MinimalWebApiWebProjectTemplate</MoreInfoUrl>
+    <License>License.txt</License>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>VWDExpress</Edition>
+      </VisualStudio>
+      <VisualStudio Version="11.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>VWDExpress</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.5" />
+  </Identifier>
+  <References />
+  <Content>
+    <VsPackage>MinWebApiTemplate.pkgdef</VsPackage>
+    <ProjectTemplate>ProjectTemplates</ProjectTemplate>
+  </Content>
+</Vsix>
